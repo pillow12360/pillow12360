@@ -16,25 +16,25 @@
 ![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )
 #Skills
-![js]()
-![js]()
-![js]()
-![js]()
-![js]()
-![js]()
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)
+![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
+![js](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+)
+![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
+![js](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+)
 
 
 #IDE
-![js]()
-![js]()
-![js]()
-https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+)
+![js](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+)
+![js](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
+)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
