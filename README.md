@@ -6,7 +6,7 @@
 
 # 진행중인 프로젝트 2024.09 ~ 12
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-dibb)](https://github.com/urinaner/sejong-dibb)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pillow12360&repo=moya)](https://github.com/sungwon2598/moya)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sungwon2598&repo=moya)](https://github.com/sungwon2598/moya)
 
 # 자격 사항
 ![정보처리기능사](https://img.shields.io/badge/정보처리기능사-22.07-4A154B?style=for-the-badge&logo=checkmarx&logoColor=white)
