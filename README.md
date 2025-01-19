@@ -5,10 +5,16 @@
 # pillow12360 "I'm Developer" 
 
 
-# 진행중인 프로젝트 2024.09 ~ 12
+# 진행중인 프로젝트 
+
+
+
+## 세종대학교 DBD 바이오융합공학과 홈페이지 구축 
+## 2024.09 ~ 2025.01
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-dibb)](https://github.com/urinaner/sejong-dibb)
 
-## 세종대학교 DBD 바이오융합공학과 홈페이지 구축 2024.09 ~ 2025.01
+## MOYA AI 로드맵 스터디 협업 툴
+## 2024.09 ~ 2025
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sungwon2598&repo=moya)](https://github.com/sungwon2598/moya)
 
 # 자격 사항
