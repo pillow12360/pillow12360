@@ -3,11 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # pillow12360 "I'm Developer" 
-[![코드트리|실력진단-pillow123](https://banner.codetree.ai/v1/banner/pillow123)](https://www.codetree.ai/profiles/pillow123)
 
 
 # 진행중인 프로젝트 2024.09 ~ 12
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-dibb)](https://github.com/urinaner/sejong-dibb)
+
+## 세종대학교 DBD 바이오융합공학과 홈페이지 구축 2024.09 ~ 2025.01
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sungwon2598&repo=moya)](https://github.com/sungwon2598/moya)
 
 # 자격 사항
