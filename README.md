@@ -21,11 +21,11 @@
       <sub>2024.09 ~ 2025.01</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/urinaner/sejong-nuclear">
+      <a href="https://github.com/sejong-nuclear">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-nuclear&theme=dracula" />
       </a>
       <br />
-      <sub><b>세종대학교 양자원자력공학과 홈페이지 구축</b></sub>
+      <sub><b>세종대학교 DBD 양자원자력공학과 홈페이지 구축</b></sub>
       <br />
       <sub>2025.01 ~ 2025.03</sub>
     </td>
@@ -84,9 +84,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pillow12360&theme=dracula&column=7&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pillow12360&theme=dracula" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=200&section=footer" />
 </div>
