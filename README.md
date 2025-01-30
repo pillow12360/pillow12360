@@ -1,67 +1,92 @@
-<div align=left>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=200&section=header&text=pillow12360&fontSize=50&fontColor=f8f8f2&animation=twinkling&desc=Full%20Stack%20Developer&descAlign=60&descAlignY=70" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<p align="center">
+  <a href="https://github.com/pillow12360">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6272A4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Building+the+future+with+code" alt="Typing SVG" />
+  </a>
+</p>
 
-# pillow12360 "I'm Developer" 
+## 🔭 Current Projects
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/urinaner/sejong-dibb">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-dibb&theme=dracula" />
+      </a>
+      <br />
+      <sub><b>세종대학교 DBD 바이오융합공학과 홈페이지 구축</b></sub>
+      <br />
+      <sub>2024.09 ~ 2025.01</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/urinaner/sejong-nuclear">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-nuclear&theme=dracula" />
+      </a>
+      <br />
+      <sub><b>세종대학교 양자원자력공학과 홈페이지 구축</b></sub>
+      <br />
+      <sub>2025.01 ~ 2025.03</sub>
+    </td>
+  </tr>
+</table>
 
-# 진행중인 프로젝트 
+<details>
+<summary><h2>🏆 Certifications</h2></summary>
+<div align="center">
+  <img src="https://img.shields.io/badge/정보처리기능사-22.07-4A154B?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/정보처리기사-24.09-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLD-24.10-F80000?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
+</details>
 
+## 💻 Tech Stack
 
+<details open>
+<summary><h3>🎨 Frontend</h3></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,styledcomponents,tailwind,sass" />
+</div>
+</details>
 
-## 세종대학교 DBD 바이오융합공학과 홈페이지 구축 
-## 2024.09 ~ 2025.01
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=urinaner&repo=sejong-dibb)](https://github.com/urinaner/sejong-dibb)
+<details open>
+<summary><h3>🔧 Backend & Infrastructure</h3></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,aws,cloudflare" />
+</div>
+</details>
 
-## MOYA AI 로드맵 스터디 협업 툴
-## 2024.09 ~ 2025
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sungwon2598&repo=moya)](https://github.com/sungwon2598/moya)
+<details>
+<summary><h3>💾 Database</h3></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+</div>
+</details>
 
-# 자격 사항
-![정보처리기능사](https://img.shields.io/badge/정보처리기능사-22.07-4A154B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-24.09-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-24.10-F80000?style=for-the-badge&logo=checkmarx&logoColor=white)
+<details>
+<summary><h3>🤝 Collaboration Tools</h3></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,slack,discord" />
+</div>
+</details>
 
+<details>
+<summary><h3>💻 Development Environment</h3></summary>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,linux,docker,bash" />
+</div>
+</details>
 
-# Skills 기술 스택
+<br/>
 
-## Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pillow12360&theme=dracula&column=7&margin-w=15&margin-h=15" />
+</p>
 
-## Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pillow12360&theme=dracula" />
+</div>
 
-## Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-# Social 협업 툴
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-# 사용 OS
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# IDE
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=200&section=footer" />
 </div>
