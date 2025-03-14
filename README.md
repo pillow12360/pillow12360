@@ -20,7 +20,7 @@
 
 ## ✨ About Me
 
-Full-stack developer specialized in creating educational and academic web platforms that streamline university department operations. I'm passionate about developing user-centered solutions that enhance the academic experience for both faculty and students. With expertise in modern frontend and backend technologies, I design intuitive interfaces and robust systems that make institutional resources more accessible and administrative workflows more efficient. Each project represents my commitment to blending technical excellence with practical academic utility.
+As a frontend developer, I improve user experiences based on my deep knowledge of browsers and JavaScript. I build intuitive and responsive interfaces through my understanding of web standards and modern frameworks. I carefully analyze user requirements to deliver solutions that consider both accessibility and performance, while maintaining a passion for continuous learning and skill improvement. I prioritize code quality and maintainability, and contribute to creating innovative web experiences through team collaboration.
 
 ## 🔭 Featured Projects
 
