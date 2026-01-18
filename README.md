@@ -33,11 +33,11 @@
 ### Frontend
 - **React | Next.js**: 컴포넌트 기반 아키텍처와 가상 DOM의 원리를 이해하고 있으며, Next.js의 RSC 기반의 SSR 렌더링과 SEO/성능이 최적화된 웹 애플리케이션을 구축합니다.
 - **State Management (Tanstack Query | Zustand)**: 서버 상태와 클라이언트 상태를 분리하여 효율적으로 관리합니다. Tanstack Query를 통한 비동기 데이터 관리와 Zustand를 이용한 가볍고 직관적인 상태 관리에 익숙합니다.
-- **Styling (Tailwind CSS | Styled-Components | SCSS)**: **사용자 경험(UX)**과 **개발자 경험(DX)** 향상을 위해 재사용 가능한 컴포넌트 설계 및 UI 라이브러리를 적극 활용하며, **Storybook**으로 컴포넌트를 시각적으로 테스팅하고 문서화합니다. 이를 통해 유지보수성이 높은 UI를 구현합니다.
+- **Styling (Tailwind CSS | Styled-Components | SCSS)**: 사용자 경험(UX)과 **개발자 경험(DX)** 향상을 위해 재사용 가능한 컴포넌트 설계 및 UI 라이브러리를 적극 활용하며, **Storybook**으로 컴포넌트를 시각적으로 테스팅하고 문서화합니다. 이를 통해 유지보수성이 높은 UI를 구현합니다.
 - 
 
 ### Backend & Cloud
-- **Supabase | Firebase**: BaaS(Backend as a Service)에 대한 높은 이해를 바탕으로, 별도의 서버 구축 없이 인증, 데이터베이스, 스토리지 등 핵심 백엔드 기능을 **서버리스(Serverless)**로 구현하여 빠르고 확장성 높은 서비스 개발이 가능합니다.
+- **Supabase | Firebase**: BaaS(Backend as a Service)에 대한 높은 이해를 바탕으로, 별도의 서버 구축 없이 인증, 데이터베이스, 스토리지 등 핵심 백엔드 기능을 서버리스(Serverless)로 구현하여 빠르고 확장성 높은 서비스 개발이 가능합니다.
 - **Node.js**: 이벤트 기반 비동기 논블로킹 I/O 모델을 이해하고 있으며, 이를 활용하여 가볍고 효율적인 RESTful API 서버를 구축한 경험이 있습니다.
 - **Spring Boot | MyBatis**: Java 기반의 엔터프라이즈급 웹 애플리케이션 개발이 가능하며, MyBatis를 이용해 SQL 중심의 유연한 데이터베이스 연동 및 관리를 수행할 수 있습니다.
 - **SQL (MySQL, PostgreSQL)**: 관계형 데이터베이스의 정규화 원칙을 이해하고 있으며, 프로젝트 요구사항에 맞는 효율적인 스키마 설계 및 복잡한 SQL 쿼리 작성이 가능합니다.
